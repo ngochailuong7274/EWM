@@ -1,2 +1,10 @@
-cache purge
--r requirements.txt
+streamlit
+pandas
+numpy
+datetime
+scipy
+plotly
+vectorbt
+pandas-ta
+seaborn
+matplotlib
